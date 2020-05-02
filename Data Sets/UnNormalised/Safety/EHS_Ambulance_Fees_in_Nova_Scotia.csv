@@ -1,0 +1,15 @@
+Category ID,Patient Category,Transportation Category,Fee Amount
+1,Most Nova Scotians with a valid health card,Medically Essential Transportation,$146.55 
+2,Non-Nova Scotians,Medically Essential Transportation,$732.95 
+3,Non-Canadians & New Canadians,Medically Essential Transportation,"$1,099.35 "
+4,"People who are defined as third party insured
+(This includes people in a motor vehicle accident, covered by Worker’s Compensation, or the federal government.)",Medically Essential Transportation,$732.95 
+5,Nova Scotians who are mobility challenged,Medically Essential Transportation,$108.95 
+6,Fee to transport to hospital from approved long term care and residential care facilities,Medically Essential Transportation,$54.50 
+7,Most Nova Scotians with a valid health card,Inter-facility Transportation,$0.00 
+8,Non-Nova Scotians,Inter-facility Transportation,$0.00 
+9,Non-Canadians & New Canadians,Inter-facility Transportation,"$1,099.35 "
+10,"People who are defined as third party insured
+(This includes people in a motor vehicle accident, covered by Worker’s Compensation, or the federal government.)",Inter-facility Transportation,$732.95 
+11,Nova Scotians who are mobility challenged,Inter-facility Transportation,N/A
+12,Fee to transport to hospital from approved long term care and residential care facilities,Inter-facility Transportation,$0.00 
